@@ -1,0 +1,3 @@
+* EXIF
+1. Strip remove exif meta data from image except direction.
+2. StripAll remove all exif meta data from image.
